@@ -1,2 +1,9 @@
 # hello-world
-具尸体
+ #include<stdio.h>
+
+int main()
+{
+printf("hello world!\n");
+return 1;
+}
+ 
